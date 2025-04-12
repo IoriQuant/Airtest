@@ -1,4 +1,4 @@
-# Airtest（fork魔改版） &middot; [![Build status](https://travis-ci.org/AirtestProject/Airtest.svg?branch=master)](https://travis-ci.org/AirtestProject/Airtest)
+# Airtest（fork 魔改版） &middot; [![Build status](https://travis-ci.org/AirtestProject/Airtest.svg?branch=master)](https://travis-ci.org/AirtestProject/Airtest)
 
 **Cross-Platform UI Automation Framework for Games and Apps**
 
